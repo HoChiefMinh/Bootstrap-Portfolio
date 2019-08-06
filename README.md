@@ -1,1 +1,1 @@
-# Bootstrap-Portfolio
+This is my updated portfolio after nearing the fourth month of attending the University of Central Florida's Coding Bootcamp. In the past four months we have covered basic HTML & CSS, JS & JQuery, how to link to other databases using API keys and Ajax calls, client and server side storage, and now we're up to date with node.js! 
